@@ -9,11 +9,7 @@ How to Installation ?
 
 (`apt install python-nautilus` in Debian-based distributions)
 
-----
-
-(`yam install python-nautilus` in Fedora and Centos based distributions)
-
-----
+(`dnf install python-nautilus` in Fedora and Centos based distributions)
 
 (`pacman -S python-nautilus` in Arch Linux-based distributions)
 
